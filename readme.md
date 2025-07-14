@@ -2,9 +2,9 @@
 
 hello world
 
-'''javascript
+````javascript
 console.log("hello world");
-'''
-'''python
+````
+````python
 print("hello world")
-'''
+````
